@@ -20,7 +20,7 @@ travis-ci = { repository = "paupino/rust-decimal", branch = "master" }
 [dependencies]
 rust_decimal = { path = "../", version = "1.0.3" }
 proc-macro-hack = "0.5"
-quote = "0.6"
+quote = "1.0.2"
 
 [lib]
 proc-macro = true
